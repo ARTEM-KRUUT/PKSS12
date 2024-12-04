@@ -73,14 +73,14 @@ quadrantChart
     quadrant-2 Requires attention
     quadrant-3 Needs reevaluation
     quadrant-4 Can be improved
-    "Ticket purchase": [0.8, 0.9]
-    "Seat booking": [0.7, 0.8]
-    "Movie ratings": [0.4, 0.6]
-    "Snack pre-order": [0.5, 0.7]
-    "Session history": [0.3, 0.4]
-    "Film schedule browsing": [0.9, 0.5]
-    "User reviews": [0.4, 0.3]
-    "Login and profile settings": [0.6, 0.4]
+    "Покупка билетов": [0.8, 0.9]
+    "Бронирование мест": [0.7, 0.8]
+    "Рейтинг фильмов": [0.4, 0.6]
+    "Предзаказ закусок": [0.5, 0.7]
+    "История сеансов": [0.3, 0.4]
+    "Просмотр расписания фильмов": [0.9, 0.55]
+    "Отзывы пользователей": [0.4, 0.3]
+    "Вход в систему и настройки профиля": [0.6, 0.4]
 ```
 ### 4. Гит граф (Gitgraph)
 ```mermaid
