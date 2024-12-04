@@ -67,12 +67,12 @@ journey
 ```mermaid
 quadrantChart
     title Importance and Complexity of Cinema App Features
-    x-axis Low Complexity --> High Complexity
-    y-axis Low Importance --> High Importance
-    quadrant-1 Should be developed
-    quadrant-2 Requires attention
-    quadrant-3 Needs reevaluation
-    quadrant-4 Can be improved
+    x-axis "Низкий приоритет" --> "Высокий приоритет"
+    y-axis "Низкая сложность" --> "Высокая сложность"
+    quadrant-1 "Реализовать немедленно"
+    quadrant-2 "Планировать в ближайшее время"
+    quadrant-3 "Возможно, стоит отказаться"
+    quadrant-4 "Требует тщательного анализа"
     "Покупка билетов": [0.8, 0.9]
     "Бронирование мест": [0.7, 0.8]
     "Рейтинг фильмов": [0.4, 0.6]
